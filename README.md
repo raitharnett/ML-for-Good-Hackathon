@@ -22,4 +22,4 @@ We show how we used the following techniques:
 *   Using ``spaCy`` to analyze transcriptions in the CrisisLogger data.
 
 # Files
-Our submission is contained in [ml-for-good.ipynb](ml-for-good.ipynb)
+Our submission is contained in [ml-for-good.ipynb](https://github.com/raitharnett/ML-for-Good-Hackathon/blob/main/ml_for_good.ipynb)
