@@ -20,3 +20,6 @@ We show how we used the following techniques:
 *   A word cloud generator.
 *   BERT pre-trained model to predict sentiment.
 *   Using ``spaCy`` to analyze transcriptions in the CrisisLogger data.
+
+# Files
+Our submission is contained in [ml-for-good.ipynb](ml-for-good.ipynb)
