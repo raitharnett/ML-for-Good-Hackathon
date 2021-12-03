@@ -21,5 +21,8 @@ We show how we used the following techniques:
 *   Pre-trained BERT model to predict sentiment.
 *   Using ``spaCy`` to analyze transcriptions in the CrisisLogger data.
 
+We also tested the usability of T0pp pretrained model
+https://huggingface.co/bigscience/T0pp https://huggingface.co/transformers/installation.html (see for details)
 # Files
-Our submission is contained in [ml-for-good.ipynb](https://github.com/raitharnett/ML-for-Good-Hackathon/blob/main/ml_for_good.ipynb) and due to resource requirements of the pre-trained BERT model was run on [Google Colab](https://colab.research.google.com/)
+Our submission is contained in [ml-for-good.ipynb](https://github.com/raitharnett/ML-for-Good-Hackathon/blob/main/ml_for_good.ipynb) and due to resource requirements of the pre-trained BERT model was run on [Google Colab](https://colab.research.google.com/). 
+The T0pp pretrained model investigation was very resource intensive and need to be run in a separate notebook, [ml-for-good.ipynb](https://github.com/raitharnett/ML-for-Good-Hackathon/blob/main/ml_for_good.ipynb)
