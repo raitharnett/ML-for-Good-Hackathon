@@ -18,8 +18,8 @@ We show how we used the following techniques:
 
 *   Clustering documents with TFIDF and KMeans.
 *   A word cloud generator.
-*   BERT pre-trained model to predict sentiment.
+*   Pre-trained BERT model to predict sentiment.
 *   Using ``spaCy`` to analyze transcriptions in the CrisisLogger data.
 
 # Files
-Our submission is contained in [ml-for-good.ipynb](https://github.com/raitharnett/ML-for-Good-Hackathon/blob/main/ml_for_good.ipynb) and was run on [Google Colab](https://colab.research.google.com/)
+Our submission is contained in [ml-for-good.ipynb](https://github.com/raitharnett/ML-for-Good-Hackathon/blob/main/ml_for_good.ipynb) and due to resource requirements of the pre-trained BERT model was run on [Google Colab](https://colab.research.google.com/)
